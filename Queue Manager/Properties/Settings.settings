@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Queue_Manager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URLQueueXML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9500/</Value>
+    </Setting>
+    <Setting Name="PastaPendentes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\eduardo.hirata\Documents\XML\Pendentes\618425\</Value>
+    </Setting>
+    <Setting Name="PastaErro" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\eduardo.hirata\Documents\XML\Erros\</Value>
+    </Setting>
+    <Setting Name="PastaProcessado" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\eduardo.hirata\Documents\XML\Processados\</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e842bac5-aefb-468d-91a5-fe707094259d</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
